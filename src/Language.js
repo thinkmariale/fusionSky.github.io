@@ -50,7 +50,7 @@ const english = {
         description:"We build engaging interactive experiences with the use of new technology to expand our universe",
         description1:".",
         logo: '/images/logo_s.png',
-        backImage: '/images/back_1_crop.jpg',
+        backImage: '/images/back_1.jpg',
     },
     consulting:{
         title: 'Consulting',
@@ -108,7 +108,7 @@ const spanish = {
     intro:{
         description1:".",
         logo: '/images/logo_s.png',
-        backImage: '/images/back_1_crop.jpg',
+        backImage: '/images/back_1.jpg',
         title:"La Fusión del Futuro",
        description:"Creamos experiencias interactivas con el uso de tecnologías nueva para expandir el universo"
     },
