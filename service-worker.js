@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fusionSky.github.io/precache-manifest.1711dccc7678259a9c61439455f2322d.js"
+  "/fusionSky.github.io/precache-manifest.6da4548fa69bd432e17237da01870e4f.js"
 );
 
 self.addEventListener('message', (event) => {
