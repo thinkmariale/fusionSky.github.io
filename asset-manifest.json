@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/static/js/main.fdb5b95c.js",
-    "static/media/team1.png": "/static/media/team1.f8675e81af56292420bc.png",
-    "static/media/bg-about-us.jpg": "/static/media/bg-about-us.dba6ccf77a20816ff525.jpg",
-    "static/media/blog2.jpg": "/static/media/blog2.3ad9ac06465b3e978794.jpg",
+    "main.js": "/static/js/main.4bbb3b60.js",
+    "static/media/bg-about-us.jpg": "/static/media/bg-about-us.c3cb5ad1cf675174e6c9.jpg",
+    "static/media/blog2.jpg": "/static/media/blog2.f043459d1fec2d1235b3.jpg",
+    "static/media/team1.png": "/static/media/team1.95e30e8a7ca8a43c9fdc.png",
     "static/media/logo-pinterest.svg": "/static/media/logo-pinterest.844709031a3c1266979e933c371e043a.svg",
     "static/media/logo-vodafone.svg": "/static/media/logo-vodafone.b3e8486c0cac220bc3a31c9eab049b21.svg",
     "static/media/logo-spotify.svg": "/static/media/logo-spotify.7e255dc67938d13ff97cc8f16812d325.svg",
@@ -11,9 +11,9 @@
     "static/media/logo-nasa.svg": "/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
     "static/media/logo-netflix.svg": "/static/media/logo-netflix.432ed6b5c31b9bcab9a38e32bf46a1e9.svg",
     "index.html": "/index.html",
-    "main.fdb5b95c.js.map": "/static/js/main.fdb5b95c.js.map"
+    "main.4bbb3b60.js.map": "/static/js/main.4bbb3b60.js.map"
   },
   "entrypoints": [
-    "static/js/main.fdb5b95c.js"
+    "static/js/main.4bbb3b60.js"
   ]
 }
