@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/fusionSky.github.io/static/js/main.cec229e7.js",
-    "static/media/team1.png": "/fusionSky.github.io/static/media/team1.f8675e81af56292420bc.png",
-    "static/media/bg-about-us.jpg": "/fusionSky.github.io/static/media/bg-about-us.dba6ccf77a20816ff525.jpg",
-    "static/media/blog2.jpg": "/fusionSky.github.io/static/media/blog2.3ad9ac06465b3e978794.jpg",
-    "static/media/logo-pinterest.svg": "/fusionSky.github.io/static/media/logo-pinterest.844709031a3c1266979e933c371e043a.svg",
-    "static/media/logo-vodafone.svg": "/fusionSky.github.io/static/media/logo-vodafone.b3e8486c0cac220bc3a31c9eab049b21.svg",
-    "static/media/logo-spotify.svg": "/fusionSky.github.io/static/media/logo-spotify.7e255dc67938d13ff97cc8f16812d325.svg",
-    "static/media/logo-coinbase.svg": "/fusionSky.github.io/static/media/logo-coinbase.87e91c7f318f2d82f46e78469976128b.svg",
-    "static/media/logo-nasa.svg": "/fusionSky.github.io/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
-    "static/media/logo-netflix.svg": "/fusionSky.github.io/static/media/logo-netflix.432ed6b5c31b9bcab9a38e32bf46a1e9.svg",
-    "index.html": "/fusionSky.github.io/index.html",
-    "main.cec229e7.js.map": "/fusionSky.github.io/static/js/main.cec229e7.js.map"
+    "main.js": "/static/js/main.fdb5b95c.js",
+    "static/media/team1.png": "/static/media/team1.f8675e81af56292420bc.png",
+    "static/media/bg-about-us.jpg": "/static/media/bg-about-us.dba6ccf77a20816ff525.jpg",
+    "static/media/blog2.jpg": "/static/media/blog2.3ad9ac06465b3e978794.jpg",
+    "static/media/logo-pinterest.svg": "/static/media/logo-pinterest.844709031a3c1266979e933c371e043a.svg",
+    "static/media/logo-vodafone.svg": "/static/media/logo-vodafone.b3e8486c0cac220bc3a31c9eab049b21.svg",
+    "static/media/logo-spotify.svg": "/static/media/logo-spotify.7e255dc67938d13ff97cc8f16812d325.svg",
+    "static/media/logo-coinbase.svg": "/static/media/logo-coinbase.87e91c7f318f2d82f46e78469976128b.svg",
+    "static/media/logo-nasa.svg": "/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
+    "static/media/logo-netflix.svg": "/static/media/logo-netflix.432ed6b5c31b9bcab9a38e32bf46a1e9.svg",
+    "index.html": "/index.html",
+    "main.fdb5b95c.js.map": "/static/js/main.fdb5b95c.js.map"
   },
   "entrypoints": [
-    "static/js/main.cec229e7.js"
+    "static/js/main.fdb5b95c.js"
   ]
 }
