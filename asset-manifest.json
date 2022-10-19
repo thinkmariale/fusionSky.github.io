@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a81f26b.chunk.css",
-    "main.js": "/static/js/main.63f20bbb.chunk.js",
-    "main.js.map": "/static/js/main.63f20bbb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7ccdfbc5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7ccdfbc5.js.map",
-    "static/js/2.8326f9be.chunk.js": "/static/js/2.8326f9be.chunk.js",
-    "static/js/2.8326f9be.chunk.js.map": "/static/js/2.8326f9be.chunk.js.map",
+    "main.js": "/static/js/main.fdb5b95c.js",
+    "static/media/team1.png": "/static/media/team1.f8675e81af56292420bc.png",
+    "static/media/bg-about-us.jpg": "/static/media/bg-about-us.dba6ccf77a20816ff525.jpg",
+    "static/media/blog2.jpg": "/static/media/blog2.3ad9ac06465b3e978794.jpg",
+    "static/media/logo-pinterest.svg": "/static/media/logo-pinterest.844709031a3c1266979e933c371e043a.svg",
+    "static/media/logo-vodafone.svg": "/static/media/logo-vodafone.b3e8486c0cac220bc3a31c9eab049b21.svg",
+    "static/media/logo-spotify.svg": "/static/media/logo-spotify.7e255dc67938d13ff97cc8f16812d325.svg",
+    "static/media/logo-coinbase.svg": "/static/media/logo-coinbase.87e91c7f318f2d82f46e78469976128b.svg",
+    "static/media/logo-nasa.svg": "/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
+    "static/media/logo-netflix.svg": "/static/media/logo-netflix.432ed6b5c31b9bcab9a38e32bf46a1e9.svg",
     "index.html": "/index.html",
-    "precache-manifest.dfdae5ff9286765b635b46874d0be693.js": "/precache-manifest.dfdae5ff9286765b635b46874d0be693.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2a81f26b.chunk.css.map": "/static/css/main.2a81f26b.chunk.css.map",
-    "static/js/2.8326f9be.chunk.js.LICENSE.txt": "/static/js/2.8326f9be.chunk.js.LICENSE.txt"
+    "main.fdb5b95c.js.map": "/static/js/main.fdb5b95c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ccdfbc5.js",
-    "static/js/2.8326f9be.chunk.js",
-    "static/css/main.2a81f26b.chunk.css",
-    "static/js/main.63f20bbb.chunk.js"
+    "static/js/main.fdb5b95c.js"
   ]
 }
